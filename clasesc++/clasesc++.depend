@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1548168846 source:c:\users\alumno-m\desktop\clasesc++\main.cpp
+	<iostream>
+	"point.h"
+
+1548168895 c:\users\alumno-m\desktop\clasesc++\include\point.h
+
+1548167442 source:c:\users\alumno-m\desktop\clasesc++\src\vector.cpp
+	"Vector.h"
+
+1548168619 c:\users\alumno-m\desktop\clasesc++\include\vector.h
+
